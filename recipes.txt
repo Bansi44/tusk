@@ -6,4 +6,7 @@ kheer
 pastha
 chiken fry
 
+beans
+pizza
+
 thankyou
